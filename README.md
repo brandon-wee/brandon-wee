@@ -98,5 +98,6 @@ Welcome to my GitHub! 🎉
 
 ## ☎️ Contacts
 - Email: bwee0920@gmail.com
+- LinkedIn: [link](https://www.linkedin.com/in/brandonweeyongjing/)
 - Discord: bwee0920
 - CodeForces: [brandon._.wee](https://codeforces.com/profile/brandon._.wee)
