@@ -32,10 +32,10 @@ Welcome to my GitHub! 🎉
     <img src="https://www.svgrepo.com/show/331488/mongodb.svg" height="50px" />
     <img src="https://www.svgrepo.com/show/354240/pytorch.svg" height="50px" />
     <img src="https://www.svgrepo.com/show/473805/tensorflow.svg" height="50px" />
-    <img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/langchain-color.svg" height="50px" />
-    <img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/langgraph-color.svg" height="50px" />
-    <img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/colab-color.svg" height="50px" />
-    <img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/huggingface-color.svg" height="50px" />
+    <img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/langchain-color.svg" width="50px" height="50px" />
+    <img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/langgraph-color.svg" width="50px" height="50px" />
+    <img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/colab-color.svg" width="50px" height="50px" />
+    <img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/huggingface-color.svg" width="50px" height="50px" />
     <img src="https://www.svgrepo.com/show/353949/jupyter.svg" height="50px" />
 
 </div>
