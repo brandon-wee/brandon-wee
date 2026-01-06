@@ -18,7 +18,7 @@ Welcome to my GitHub! 🎉
 
 ## 🏢 Experience
 - 🚀 Machine Learning Scientist @ MoneyLion (Jan 2026 – Present)
-- 💼 Ex-AI & Data Consultant @ Ernst & Young (Dec 2024 – Feb 2025)
+- 💼 Ex-AI & Data Consulting Intern @ Ernst & Young (Dec 2024 – Feb 2025)
 
 ## 🖥️ Frameworks and Technologies
 <div>
