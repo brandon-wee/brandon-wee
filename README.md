@@ -63,6 +63,7 @@ Welcome to my GitHub! 🎉
     * Favourite Title Track: 🩵 [Blue Valentine](https://www.youtube.com/watch?v=EmeW6li6bbo&pp=ygUUYmx1ZSB2YWxlbnRpbmUgbm1peHg%3D)
     * Favourite B-Side: 🎸 [Adore U](https://www.youtube.com/watch?v=756xAsYT3T0&pp=ygUNYWRvcmUgdSBubWl4eA%3D%3D)
     * Favourite Ballad: 🪸 [Ocean](https://www.youtube.com/watch?v=JLUqbQJswyA&pp=ygULb2NlYW4gbm1peHg%3D)
+    * Song of the year: [Papillon](https://www.youtube.com/watch?v=qQhEwaHszKo&pp=ygUOcGFwaWxsb24gbm1peHg%3D)
     * Favourite Subunit: HaeLy (🐨 Lily, 🐻‍❄️ Haewon)
     * Bias: 🦌 Sullyoon / 🐥 Bae (I can't/won't choose 😭)
     </details>
@@ -76,7 +77,7 @@ Welcome to my GitHub! 🎉
     * Another Banger: 🏰 [Opening](https://www.youtube.com/watch?v=xERu1WtscxU&pp=ygUPam8geXVyaSBvcGVuaW5n)
     * 🎤✨ Probably eats CDs everyday because her singing is too good 🫶
     </details>
-  + *🐰 BUNNY / 💐 FLOVER / 🌊 DIVE / 🫣 FEARNOT / 🔮 MY / 🎀 GLLIT / 💯 ONCE / 🖤 BLINK / 💪 MIDZY / 👽 MONSTIEZ / 🌷 BUDDY / 🍰 REVELUV*
+  + *🐰 BUNNY / 💐 FLOVER / 🌊 DIVE / 🫣 FEARNOT / 🔮 MY / 🎀 GLLIT / 💯 ONCE / 🖤 BLINK / 💪 MIDZY / 👽 MONSTIEZ / 🌷 BUDDY / 🍰 REVELUV / 💓 S2U*
   + <details>
     <summary>😎 Brandon's Recommendations:</summary>
 
@@ -92,6 +93,7 @@ Welcome to my GitHub! 🎉
     * 👽 BABYMONSTER: [DRIP](https://www.youtube.com/watch?v=Zp-Jhuhq0bQ&pp=ygUEZHJpcA%3D%3D), [Like That](https://www.youtube.com/watch?v=M8r3x4Re8-I&pp=ygUJbGlrZSB0aGF0), [FOREVER](https://www.youtube.com/watch?v=eJCHKjt0MPw&pp=ygUHZm9yZXZlcg%3D%3D)
     * 🌷 GFRIEND: [Time for the moon night](https://www.youtube.com/watch?v=_XyBa8QsVQU&pp=ygUXdGltZSBmb3IgdGhlIG1vb24gbmlnaHQ%3D), [Crossroads](https://www.youtube.com/watch?v=kx5TWKPE5sU&pp=ygUSY3Jvc3Nyb2FkcyBnZnJpZW5k), [Rough](https://www.youtube.com/watch?v=r_6q_-d-7Sk&pp=ygUFcm91Z2g%3D)
     * 🍰 Red Velvet: [Feel My Rhythm](https://www.youtube.com/watch?v=R9At2ICm4LQ&pp=ygUZZmVlbCBteSByaHl0aG0gcmVkIHZlbHZldA%3D%3D), [Psycho](https://www.youtube.com/watch?v=uR8Mrt1IpXg&pp=ygURcHN5Y2hvIHJlZCB2ZWx2ZXQ%3D), [Bad Boy](https://www.youtube.com/watch?v=J_CFBjAyPWE&pp=ygUScmVkIHZlbHZldCBiYWQgYm95)
+    * 💓 Hearts2Hearts: [Apple Pie](https://www.youtube.com/watch?v=4k_HiMxY_gg&pp=ygUNYXBwbGUgcGllIGgyaA%3D%3D), [Flutter](https://www.youtube.com/watch?v=sXApG5MkuNU&pp=ygULZmx1dHRlciBoMmg%3D), [Pretty Please](https://www.youtube.com/watch?v=ufwB9Uja_wM&pp=ygURcHJldHR5IHBsZWFzZSBoMmg%3D)
     * 🎵 Soloists: [Being a Good Girl Hurts by Yena](https://www.youtube.com/watch?v=m0SgymNMkpI&pp=ygUXYmVpbmcgYSBnb29kIGdpcmwgaHVydHM%3D), [Scott & Zelda by BIBI](https://www.youtube.com/watch?v=d7glwJ5yd20&pp=ygUPc2NvdHQgYW5kIHplbGRh), [Palette by IU](https://www.youtube.com/watch?v=d9IxdwEFk1c&pp=ygUKcGFsZXR0ZSBpdQ%3D%3D)
     </details>
   </details>
