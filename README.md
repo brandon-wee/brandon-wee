@@ -80,7 +80,8 @@ Welcome to my GitHub! 🎉
   + *🐰 BUNNY / 💐 FLOVER / 🌊 DIVE / 🫣 FEARNOT / 🔮 MY / 🎀 GLLIT / 💯 ONCE / 🖤 BLINK / 💪 MIDZY / 👽 MONSTIEZ / 🌷 BUDDY / 🍰 REVELUV / 💓 S2U*
   + <details>
     <summary>😎 Brandon's Recommendations:</summary>
-
+ 
+    * [Spotify Playlist](https://open.spotify.com/playlist/53c4hkEl9ewhrLUl3xmaWk?si=136ff9b543cf422d)
     * 🐰 NewJeans: [Bubble Gum](https://www.youtube.com/watch?v=ft70sAYrFyY&pp=ygUKYnViYmxlIGd1bQ%3D%3D), [Hype Boy](https://www.youtube.com/watch?v=11cta61wi0g&pp=ygUIaHlwZSBib3k%3D), [Supernatural](https://www.youtube.com/watch?v=ZncbtRo7RXs&pp=ygUMc3VwZXJuYXR1cmFs)
     * 💐 fromis_9: [from](https://www.youtube.com/watch?v=eeZzCoghZzw&pp=ygULZnJvbSBmcm9taXM%3D), [LIKE YOU BETTER](https://www.youtube.com/watch?v=r1QapH1SIAI&pp=ygUYbGlrZSB5b3UgYmV0dGVyIGZyb21pc185), [Airplane Mode](https://www.youtube.com/watch?v=p7h4R3v79BI&pp=ygUWYWlycGxhbmUgbW9kZSBmcm9taXNfOQ%3D%3D)
     * 🌊 IVE: [HEYA](https://www.youtube.com/watch?v=07EzMbVH3QE&pp=ygUEaGV5YQ%3D%3D), [Off the Record](https://www.youtube.com/watch?v=_ApV7Lm87cg&pp=ygUOb2ZmIHRoZSByZWNvcmQ%3D), [LOVE DIVE](https://www.youtube.com/watch?v=Y8JFxS1HlDo&pp=ygUJbG92ZSBkaXZl)
