@@ -64,7 +64,7 @@ Welcome to my GitHub! 🎉
     * Favourite B-Side: 🎸 [Adore U](https://www.youtube.com/watch?v=756xAsYT3T0&pp=ygUNYWRvcmUgdSBubWl4eA%3D%3D)
     * Favourite Ballad: 🪸 [Ocean](https://www.youtube.com/watch?v=JLUqbQJswyA&pp=ygULb2NlYW4gbm1peHg%3D)
     * Song of the year: 🦋 [Papillon](https://www.youtube.com/watch?v=qQhEwaHszKo&pp=ygUOcGFwaWxsb24gbm1peHg%3D)
-    * Favourite Subunit: HaeLy (🐨 Lily, 🐻‍❄️ Haewon)
+    * Favourite Subunit: SullBae (🦌 Sullyoon, 🐥 Bae), HaeLy (🐨 Lily, 🐻‍❄️ Haewon)
     * Bias: 🦌 Sullyoon / 🐥 Bae (I can't/won't choose 😭)
     </details>
   + <details>
