@@ -54,7 +54,7 @@ Welcome to my GitHub! 🎉
     * Favourite B-Side: ☁️ [Dreamlike](https://www.youtube.com/watch?v=5cWQQDfI7WM&pp=ygUPZHJlYW1saWtlIGl6b25l)
     * Favourite Ballad: 🪷 [Someday](https://www.youtube.com/watch?v=j4td0_efDkc&pp=ygUNc29tZWRheSBpem9uZdIHCQlNCgGHKiGM7w%3D%3D)
     * Favourite Subunit: joyuriz (🐥 Choi Yena, 🐯 Kim Chaewon, 🐹 Jo Yuri)
-    * Bias: 🦊 Kim Minju
+    * Bias: 🦊 Kim Minju / 🐹 Jo Yuri
     </details>
   + <details>
     <summary>💙 Vice-President NSWER</summary>
@@ -64,8 +64,18 @@ Welcome to my GitHub! 🎉
     * Favourite B-Side: 🎸 [Adore U](https://www.youtube.com/watch?v=756xAsYT3T0&pp=ygUNYWRvcmUgdSBubWl4eA%3D%3D)
     * Favourite Ballad: 🪸 [Ocean](https://www.youtube.com/watch?v=JLUqbQJswyA&pp=ygULb2NlYW4gbm1peHg%3D)
     * Song of the year: 🦋 [Papillon](https://www.youtube.com/watch?v=qQhEwaHszKo&pp=ygUOcGFwaWxsb24gbm1peHg%3D)
-    * Favourite Subunit: SullBae (🦌 Sullyoon, 🐥 Bae), HaeLy (🐨 Lily, 🐻‍❄️ Haewon)
+    * Favourite Subunit: SullBae (🦌 Sullyoon, 🐥 Bae), HaeLy (🐨 Lily, 🐻‍❄️ Haewon), JjyuKkyu (🐶 Jiwoo, 🐱 Kyujin)
     * Bias: 🦌 Sullyoon / 🐥 Bae (I can't/won't choose 😭)
+    </details>
+  + <details>
+    <summary>💓 Secretary S2U</summary>
+
+    * Status: Also Thriving 📈📈📈
+    * Favourite Title Track: 😛 [RUDE!](https://www.youtube.com/watch?v=F7sGJVUrkjQ)
+    * Favourite B-Side: 🥧 [Apple Pie](https://www.youtube.com/watch?v=4k_HiMxY_gg)
+    * Favourite Ballad: 🌕 [Blue Moon](https://www.youtube.com/watch?v=GxOb7WY88NM)
+    * Favourite Subunit: Dajeongz (🧁 Stella, 🫛 Ian)
+    * Bias: 🍓 Jiwoo / 🧁 Stella
     </details>
   + <details>
     <summary>💖 Eternal GLASSY</summary>
@@ -74,10 +84,10 @@ Welcome to my GitHub! 🎉
     * Favourite Title Track: 🥀 [Farewell For Now!](https://www.youtube.com/watch?v=Q8y4WKRNpyc&pp=ygUQam8geXVyaSBmYXJld2VsbA%3D%3D)
     * Favourite B-Side: 🌙 [Express Moon](https://www.youtube.com/watch?v=YBNbIY1-xOU&pp=ygUUam8geXVyaSBleHByZXNzIG1vb24%3D)
     * Favourite Ballad: ❤️‍🩹 [Bruise](https://www.youtube.com/watch?v=6mlYX3SMGNI&pp=ygUOam8geXVyaSBicnVpc2U%3D)
-    * Another Banger: 🏰 [Opening](https://www.youtube.com/watch?v=xERu1WtscxU&pp=ygUPam8geXVyaSBvcGVuaW5n)
+    * Another Banger: 🏰 [Growls & Purrs](https://www.youtube.com/watch?v=EIL1MXBv8Pk)
     * 🎤✨ Probably eats CDs everyday because her singing is too good 🫶
     </details>
-  + *🐰 BUNNY / 💐 FLOVER / 🌊 DIVE / 🫣 FEARNOT / 🔮 MY / 🎀 GLLIT / 💯 ONCE / 🖤 BLINK / 💪 MIDZY / 👽 MONSTIEZ / 🌷 BUDDY / 🍰 REVELUV / 💓 S2U*
+  + *🐰 BUNNY / 💐 FLOVER / 🌊 DIVE / 🫣 FEARNOT / 🔮 MY / 🎀 GLLIT / 💯 ONCE / 🖤 BLINK / 💪 MIDZY / 👽 MONSTIEZ / 🌷 BUDDY / 🍰 REVELUV*
   + <details>
     <summary>😎 Brandon's Recommendations:</summary>
  
@@ -94,7 +104,6 @@ Welcome to my GitHub! 🎉
     * 👽 BABYMONSTER: [DRIP](https://www.youtube.com/watch?v=Zp-Jhuhq0bQ&pp=ygUEZHJpcA%3D%3D), [Like That](https://www.youtube.com/watch?v=M8r3x4Re8-I&pp=ygUJbGlrZSB0aGF0), [FOREVER](https://www.youtube.com/watch?v=eJCHKjt0MPw&pp=ygUHZm9yZXZlcg%3D%3D)
     * 🌷 GFRIEND: [Time for the moon night](https://www.youtube.com/watch?v=_XyBa8QsVQU&pp=ygUXdGltZSBmb3IgdGhlIG1vb24gbmlnaHQ%3D), [Crossroads](https://www.youtube.com/watch?v=kx5TWKPE5sU&pp=ygUSY3Jvc3Nyb2FkcyBnZnJpZW5k), [Rough](https://www.youtube.com/watch?v=r_6q_-d-7Sk&pp=ygUFcm91Z2g%3D)
     * 🍰 Red Velvet: [Feel My Rhythm](https://www.youtube.com/watch?v=R9At2ICm4LQ&pp=ygUZZmVlbCBteSByaHl0aG0gcmVkIHZlbHZldA%3D%3D), [Psycho](https://www.youtube.com/watch?v=uR8Mrt1IpXg&pp=ygURcHN5Y2hvIHJlZCB2ZWx2ZXQ%3D), [Bad Boy](https://www.youtube.com/watch?v=J_CFBjAyPWE&pp=ygUScmVkIHZlbHZldCBiYWQgYm95)
-    * 💓 Hearts2Hearts: [Apple Pie](https://www.youtube.com/watch?v=4k_HiMxY_gg&pp=ygUNYXBwbGUgcGllIGgyaA%3D%3D), [Flutter](https://www.youtube.com/watch?v=sXApG5MkuNU&pp=ygULZmx1dHRlciBoMmg%3D), [Pretty Please](https://www.youtube.com/watch?v=ufwB9Uja_wM&pp=ygURcHJldHR5IHBsZWFzZSBoMmg%3D)
     * 🎵 Soloists: [Being a Good Girl Hurts by Yena](https://www.youtube.com/watch?v=m0SgymNMkpI&pp=ygUXYmVpbmcgYSBnb29kIGdpcmwgaHVydHM%3D), [Scott & Zelda by BIBI](https://www.youtube.com/watch?v=d7glwJ5yd20&pp=ygUPc2NvdHQgYW5kIHplbGRh), [Palette by IU](https://www.youtube.com/watch?v=d9IxdwEFk1c&pp=ygUKcGFsZXR0ZSBpdQ%3D%3D)
     </details>
   </details>
